@@ -95,7 +95,7 @@ python dataScrape.py --output_dir path/to/output/
 `main.py` currently contains a local absolute path:
 
 ```python
-dir = r"C:\Users\Tiger\PycharmProjects\YouTubeLikesAnalysis\output"
+dir = r"C:\Users\USERNAME\PycharmProjects\YouTubeLikesAnalysis\output"
 ```
 
 Change this to the location of the `output` directory on your computer.
@@ -119,7 +119,7 @@ This is recommended because it allows the project to work on other computers wit
 `clearOutput.py` also contains a local absolute path:
 
 ```python
-directory = r"C:\Users\Tiger\PycharmProjects\YouTubeLikesAnalysis\output"
+directory = r"C:\Users\USERNAME\PycharmProjects\YouTubeLikesAnalysis\output"
 ```
 
 Change it to:
